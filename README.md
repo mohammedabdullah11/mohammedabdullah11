@@ -54,7 +54,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mohammed-abdullah-832234313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/mo7amed.3bdullah1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
-  <a href="mailto:mohamedabdallh123455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedabdallh123455@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
