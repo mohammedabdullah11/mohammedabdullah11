@@ -51,7 +51,10 @@
 
 ## 🌍 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/mohammed-abdullah-832234313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/201001454138">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+ <a href="https://www.linkedin.com/in/mohammed-abdullah-832234313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/mo7amed.3bdullah1" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedabdallh123455@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
