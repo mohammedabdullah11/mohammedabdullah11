@@ -14,18 +14,27 @@
 Flutter Developer passionate about building scalable, high-performance, and user-friendly mobile applications with clean, maintainable code.
 
 🛠️ Tech Stack
+
 • Languages: Dart, Java, C++
 
 • Framework: Flutter
+
 • State Management: BLoC/Cubit, Provider
+
 • Networking: Dio, Retrofit, REST APIs
+
 • Backend: Firebase, Cloud Firestore
+
 • Tools: Git, GitHub, Android Studio, VS Code
 
 💡 What I Do
+
 • 📱 Build cross-platform mobile applications.
+
 • 🏗️ Implement clean architecture and maintainable code.
+
 • 🔌 Integrate REST APIs and backend services.
+
 • ⚡️ Develop responsive UIs with a focus on performance and user experience.
 
 🤝 Let's Connect
