@@ -4,14 +4,12 @@
 <h1>
   Hi There, I'm Mohammed Abdullah  
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN0bmc1dm0yZzJ2dGlmbmo1N3p1dGNhdmwyMGpyaHk2cmJiMXBkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="25%" style="margin-top:20px;" /></h1>
-<p>
-"Flutter developer specialized in building clean, smooth, and user-friendly mobile applications using Dart & Flutter."
-</p>
-
 
 ## ✨ About Me  
-🚀 Flutter Developer | Dart | Clean Architecture
-Flutter Developer passionate about building scalable, high-performance, and user-friendly mobile applications with clean, maintainable code.
+<p>
+"🚀 Flutter Developer | Dart | Clean Architecture
+Flutter Developer passionate about building scalable, high-performance, and user-friendly mobile applications with clean, maintainable code."
+</p>
 
 ## 🛠️ Tech Stack
 • Languages: Dart, Java, C++
