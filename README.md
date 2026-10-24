@@ -15,6 +15,7 @@ Flutter Developer passionate about building scalable, high-performance, and user
 
 🛠️ Tech Stack
 • Languages: Dart, Java, C++
+
 • Framework: Flutter
 • State Management: BLoC/Cubit, Provider
 • Networking: Dio, Retrofit, REST APIs
