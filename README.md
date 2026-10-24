@@ -13,8 +13,7 @@
 🚀 Flutter Developer | Dart | Clean Architecture
 Flutter Developer passionate about building scalable, high-performance, and user-friendly mobile applications with clean, maintainable code.
 
-🛠️ Tech Stack
-
+## 🛠️ Tech Stack
 • Languages: Dart, Java, C++
 
 • Framework: Flutter
@@ -27,8 +26,7 @@ Flutter Developer passionate about building scalable, high-performance, and user
 
 • Tools: Git, GitHub, Android Studio, VS Code
 
-💡 What I Do
-
+## 💡 What I Do
 • 📱 Build cross-platform mobile applications.
 
 • 🏗️ Implement clean architecture and maintainable code.
@@ -37,7 +35,7 @@ Flutter Developer passionate about building scalable, high-performance, and user
 
 • ⚡️ Develop responsive UIs with a focus on performance and user experience.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 Open to Flutter development opportunities, collaboration, and building impactful digital products.
 Let's build something great! 🚀
 
