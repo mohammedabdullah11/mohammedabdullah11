@@ -10,12 +10,26 @@
 
 
 ## ✨ About Me  
-- 🚀 Flutter & Dart Developer passionate about building smooth and responsive mobile apps.
-- 📚 Currently learning OOP, Algorithms, Clean Architecture & REST APIs (Dio + Retrofit).
-- 🎯 Future Goals: Build large-scale apps and master System Design.
-- 🤝 Open to collaboration and contributing to the Flutter open-source community.
+🚀 Flutter Developer | Dart | Clean Architecture
+Flutter Developer passionate about building scalable, high-performance, and user-friendly mobile applications with clean, maintainable code.
 
----
+🛠️ Tech Stack
+• Languages: Dart, Java, C++
+• Framework: Flutter
+• State Management: BLoC/Cubit, Provider
+• Networking: Dio, Retrofit, REST APIs
+• Backend: Firebase, Cloud Firestore
+• Tools: Git, GitHub, Android Studio, VS Code
+
+💡 What I Do
+• 📱 Build cross-platform mobile applications.
+• 🏗️ Implement clean architecture and maintainable code.
+• 🔌 Integrate REST APIs and backend services.
+• ⚡️ Develop responsive UIs with a focus on performance and user experience.
+
+🤝 Let's Connect
+Open to Flutter development opportunities, collaboration, and building impactful digital products.
+Let's build something great! 🚀
 
 ## 🧰 Some Tools I Use  
 <div align="left">
